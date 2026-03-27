@@ -55,7 +55,7 @@
 <body>
 
 <header>
-    <h1>SourceYes Technologies</h1>
+    <h1>Sourcesys Technologies</h1>
     <p>Innovative IT Solutions</p>
 </header>
 
@@ -64,6 +64,7 @@
     <a href="#about">About</a>
     <a href="#services">Services</a>
     <a href="#contact">Contact</a>
+    
 </nav>
 
 <section id="home">
